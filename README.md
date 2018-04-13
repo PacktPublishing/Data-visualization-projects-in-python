@@ -12,11 +12,15 @@ Finally, you will build interactive web visualizations of data using Python: you
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Work with various data sources including text files, MS Excel files, databases, and R data filesUse Tableau Desktop for data analysis and visualizations 
-<LI>Create bar charts, pie charts, waterfall charts, bump charts, line graphs, boxplot and line graphs etc. 
-<LI>Build interactive Dashboards and Visualizations 
-<LI>Develop calculated fields such as running sum, moving average, year on year growth etc. with conditional logic 
-<LI>Create a dynamic dashboard combining multiple worksheets </LI></UL></DIV>
+<LI>* Set up different data visualization tools in Python such as bqplot, NetworkX, Bokeh, and Dash </LI>
+<LI>* Plot data in Jupyter Notebook using bqplot </LI>
+<LI>* Use bqplot to compare different US Presidential election trends </LI>
+<LI>* Analyze the trends in previous and current FIFA rankings </LI>
+<LI>* Use the NetworkX library to plot the LAN networks in your office space and organization </LI>
+<LI>* Visualize a social network with NetworkX </LI>
+<LI>* Plot weather forecasts using Bokeh, for the weather in US and UK </LI>
+<LI>* See the frequency of Moon missions undertaken by NASA over the years </LI>
+<LI>* Turn dash plots into interactive visualizations for major Android version releases and Walmart's growth </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
